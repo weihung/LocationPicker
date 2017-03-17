@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/name11"
+    android:textSize="80sp"
+    android:text="厨房"
+    android:textColor="@color/place_text_selector"
+    android:tag="厨房"
+    android:horizontalSpacing="10dp"
+    android:layout_margin="10dp"
+    android:paddingLeft="10dp"
+    android:gravity="center"
+    android:background="@drawable/place_selector"
+    android:onClick="onClick"
+    android:layout_columnSpan ="2"
+    android:layout_gravity="fill"
+    android:layout_width="@dimen/patrol_item_height_normal"
+    android:layout_height="@dimen/patrol_item_height_normal">
+</Button>

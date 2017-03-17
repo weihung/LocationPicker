@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Patrol -->
+    <dimen name="patrol_item_height_normal">200sp</dimen>
+    <dimen name="patrol_item_height_small">150sp</dimen>
+    <dimen name="patrol_item_height_extra_large">400sp</dimen>
+    <dimen name="patrol_odd_line_padding">50sp</dimen>
+    <dimen name="patrol_even_line_padding">150sp</dimen>
+    <!-- Spacing -->
+    <dimen name="spacing_small">4dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <!-- List -->
+    <dimen name="item_height_one_line_small">48dp</dimen>
+    <dimen name="item_height_one_line_medium">56dp</dimen>
+    <dimen name="item_height_two_line_small">72dp</dimen>
+    <dimen name="item_height_two_line_medium">72dp</dimen>
+    <dimen name="item_height_three_line_small">88dp</dimen>
+    <dimen name="item_height_three_line_medium">88dp</dimen>
+    <dimen name="item_padding_top_small">16dp</dimen>
+    <dimen name="item_padding_top_medium">20dp</dimen>
+    <dimen name="item_padding_bottom_small">16dp</dimen>
+    <dimen name="item_padding_bottom_medium">20dp</dimen>
+    <dimen name="item_text_padding_start_small">16dp</dimen>
+    <dimen name="item_text_padding_start_medium">72dp</dimen>
+    <!-- Card -->
+    <dimen name="card_elevation_resting">2dp</dimen>
+    <dimen name="card_elevation_raised">8dp</dimen>
+    <dimen name="card_corner_radius">2dp</dimen>
+
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
